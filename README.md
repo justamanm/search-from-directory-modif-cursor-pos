@@ -22,7 +22,7 @@ base on init work from [search-from-directory](https://github.com/liamcain/searc
 ### HOW TO USE
 first, go to release page
 
-install: just decompress it, and put in .obsidian/plugins folder of your vault
+install: download [search-from-directory.rar](https://github.com/justamanm/search-from-directory-modif-cursor-pos/releases/download/v0.0.1/search-from-directory.rar) decompress it, and put in .obsidian/plugins folder of your vault
 
 usage
   1. global search: right-click on folder in obsidian -> click on "search in folder" -> just enter the keyword directly after folder path
