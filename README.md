@@ -13,6 +13,7 @@ Like my work and want to see more like it? You can sponsor me.
 
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/liamcain?style=social)](https://github.com/sponsors/liamcain)
 
+---
 
 ### Background:
 base on init work from [search-from-directory](https://github.com/liamcain/search-from-directory) and improvement from [search-from-directory-modif-cursor-pos](https://github.com/1C0D/search-from-directory-modif-cursor-pos)
