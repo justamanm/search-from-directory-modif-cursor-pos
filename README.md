@@ -16,7 +16,7 @@ Like my work and want to see more like it? You can sponsor me.
 ---
 
 ### Background:
-base on init work from [search-from-directory](https://github.com/liamcain/search-from-directory) and improvement from [search-from-directory-modif-cursor-pos](https://github.com/1C0D/search-from-directory-modif-cursor-pos)
+base on initial work from [search-from-directory](https://github.com/liamcain/search-from-directory) and improvement from [search-from-directory-modif-cursor-pos](https://github.com/1C0D/search-from-directory-modif-cursor-pos)
 (becuse the es6 can't successfully running, so convert it to es5, make the code complex and file large.)
 
 ### HOW TO USE
